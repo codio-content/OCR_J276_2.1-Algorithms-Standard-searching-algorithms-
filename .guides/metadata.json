@@ -1,0 +1,95 @@
+{
+ "sections": [
+  {
+   "id": "a3f56ab9-1a8d-f329-6b8b-e617fb34a6db",
+   "title": "Standard searching algorithms ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Standard-searching-algorithms--a3f5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "eb29e60b-f1b2-93ef-f514-cc1f14c3fccf",
+   "title": "Linear search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Linear-search-eb29.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6517f62f-07ad-f582-ab0d-05223badaebb",
+   "title": "Flow diagrams",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Flow-diagrams-6517.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "5319de96-426a-fb15-ded1-2c99a4fb762c",
+   "title": "Binary search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Binary-search-5319.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "66db14b8-a639-ef13-cf90-c47698fd7d92",
+   "title": "Example of a binary search",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Example-of-a-binary-search-66db.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "adacb18a-8ee9-37bf-b065-710614ce96b9",
+   "title": "Efficiency",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Efficiency-adac.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "37e50253-58cf-c3ea-fd90-cb52cb736414",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-37e5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a345b400-5296-2e24-b817-deae47a2aa05",
+   "title": "Question",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Question-a345.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

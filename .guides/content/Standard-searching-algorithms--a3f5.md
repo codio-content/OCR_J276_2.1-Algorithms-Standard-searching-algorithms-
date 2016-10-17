@@ -1,0 +1,1 @@
+In this lesson we will look at algorithms that can be used to search data for specific items and the ways in which they can be presented.

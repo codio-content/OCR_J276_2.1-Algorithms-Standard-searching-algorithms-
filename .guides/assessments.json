@@ -1,0 +1,36 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-133972513",
+  "source": {
+   "name": "Question1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "tart = 0\nend = list.length – 1\nfound = False\ntarget = input(“Please enter the number to be searched for.”)\nwhile start <= end <<<AND found == False>>>\n\t<<<middle = (start + end) DIV 2>>>\n\tif list[middle] == target then\n\t\tfound = True\n\tendif\n\tif target < alist.middle then\n\t\t<<<end = middle – 1>>>\n\tendif\n\tif target > alist.middle then\n\t\t<<<start = middle + 1>>>\n\tendif\nendwhile\n<<<if found == True then>>>\n\tprint(“The search item is in the list.”)\nelse\n\tprint(“The search item is not in the list.”)\nendif",
+   "tokens": {
+    "blank": [
+     "AND found == False",
+     "middle = (start + end) DIV 2",
+     "end = middle – 1",
+     "start = middle + 1",
+     "if found == True then"
+    ],
+    "text": [
+     "tart = 0\nend = list.length – 1\nfound = False\ntarget = input(“Please enter the number to be searched for.”)\nwhile start <= end ",
+     0,
+     "\n\t",
+     0,
+     "\n\tif list[middle] == target then\n\t\tfound = True\n\tendif\n\tif target < alist.middle then\n\t\t",
+     0,
+     "\n\tendif\n\tif target > alist.middle then\n\t\t",
+     0,
+     "\n\tendif\nendwhile\n",
+     0,
+     "\n\tprint(“The search item is in the list.”)\nelse\n\tprint(“The search item is not in the list.”)\nendif"
+    ]
+   }
+  }
+ }
+]
