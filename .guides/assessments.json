@@ -1,34 +1,37 @@
 [
  {
   "type": "fill-in-the-blanks",
-  "taskId": "fill-in-the-blanks-133972513",
+  "taskId": "fill-in-the-blanks-4006018453",
   "source": {
    "name": "Question1",
    "showName": false,
-   "instructions": "**Select correct answers from the available list**",
+   "instructions": "**In the table select the correct statements for each number.**",
    "points": "1",
    "showValues": true,
-   "text": "tart = 0\nend = list.length – 1\nfound = False\ntarget = input(“Please enter the number to be searched for.”)\nwhile start <= end <<<AND found == False>>>\n\t<<<middle = (start + end) DIV 2>>>\n\tif list[middle] == target then\n\t\tfound = True\n\tendif\n\tif target < alist.middle then\n\t\t<<<end = middle – 1>>>\n\tendif\n\tif target > alist.middle then\n\t\t<<<start = middle + 1>>>\n\tendif\nendwhile\n<<<if found == True then>>>\n\tprint(“The search item is in the list.”)\nelse\n\tprint(“The search item is not in the list.”)\nendif",
+   "text": "|**Number** |**Statement**| \n| :------: | :----------- |\n| 1 | <<<found == False>>> |\n| 2 | <<<(start + end) DIV 2>>>|\n| 3 | <<<True>>>|\n| 4 | <<<end = middle – 1>>>|\n| 5 | <<<start = middle + 1>>>|\n| 6 | <<<if found == True then>>>|",
    "tokens": {
     "blank": [
-     "AND found == False",
-     "middle = (start + end) DIV 2",
+     "found == False",
+     "(start + end) DIV 2",
+     "True",
      "end = middle – 1",
      "start = middle + 1",
      "if found == True then"
     ],
     "text": [
-     "tart = 0\nend = list.length – 1\nfound = False\ntarget = input(“Please enter the number to be searched for.”)\nwhile start <= end ",
+     "|**Number** |**Statement**| \n| :------: | :----------- |\n| 1 | ",
      0,
-     "\n\t",
+     " |\n| 2 | ",
      0,
-     "\n\tif list[middle] == target then\n\t\tfound = True\n\tendif\n\tif target < alist.middle then\n\t\t",
+     "|\n| 3 | ",
      0,
-     "\n\tendif\n\tif target > alist.middle then\n\t\t",
+     "|\n| 4 | ",
      0,
-     "\n\tendif\nendwhile\n",
+     "|\n| 5 | ",
      0,
-     "\n\tprint(“The search item is in the list.”)\nelse\n\tprint(“The search item is not in the list.”)\nendif"
+     "|\n| 6 | ",
+     0,
+     "|"
     ]
    }
   }
